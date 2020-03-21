@@ -1,2 +1,5 @@
 # Backup files
 *~
+# Mac
+.DS_Store
+

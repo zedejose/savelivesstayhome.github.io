@@ -1,21 +1,79 @@
 #+TITLE: Save Lives Stay Home
 #+AUTHOR: Ricardo Anguiano
-#+DATE: C-t
-#+OPTIONS: toc:nil num:nil email:t html-postamble:nil ^:nil
+#+DATE: Sat Mar 21 13:05:14 2020
+#+OPTIONS: toc:nil email:nil html-postamble:nil ^:nil
+#+OPTIONS: html-style:nil
+#+HTML_HEAD_EXTRA: <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="Skeleton-2.0.4/css/normalize.css" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="Skeleton-2.0.4/css/skeleton.css" />
 
-* Save Lives Stay Home
+# ------------------------------------------------------------------------
+# Body
+# ------------------------------------------------------------------------
+#+HTML:  <div class="container">
+#+HTML:    <div class="sixteen columns">
 
-This is a collection of images and sources to spread the word: 
+Please share these images wherever you think it will encourage people
+to practice social distancing during this global health crisis.
 
-#+BEGIN_EXAMPLE
-Save Lives Stay Home
-#+END_EXAMPLE 
+* Images
 
-* Actions
+** General Purpose English
+#+ATTR_HTML: :class u-max-full-width
+#+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language.
+#+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language.
+[[./images/save-lives-stay-home-1470.jpg]]
 
-- Please share these images wherever you think it will encourage people
-  to practice social distancing during this global health crisis.
+** Twitter Profile Header English
+#+ATTR_HTML: :class u-max-full-width
+#+ATTR_HTML: :alt Save Lives Stay Home Image for Twitter Profile Header, 1500x500 square JPEG, English language.
+#+CAPTION: Save Lives Stay Home Image for Twitter Profile Header, 1500x500 square JPEG, English language.
+[[./images/save-lives-stay-home-twitter-banner-1500x500.jpg]]
 
-- Please add your own translations, and distribute the message on
-  social media or by group or private message.
+** General Purpose Spanish
+#+ATTR_HTML: :class u-max-full-width
+#+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Spanish language.
+#+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Spanish language.
+[[./images/save-lives-stay-home-spanish-1470.jpg]]
+
+* Image Sources
+
+| Description                    | Resolution | Link                                             |
+|--------------------------------+------------+--------------------------------------------------|
+| <l>                            | <c>        | <l>                                              |
+| General Purpose English        | 1470x1470  | [[./images/save-lives-stay-home-1470.pxm][save-lives-stay-home-1470.pxm]]                    |
+| General Purpose Spanish        | 1470x1470  | [[./images/save-lives-stay-home spanish-1470.pxm][save-lives-stay-home spanish-1470.pxm]]            |
+| Twitter Profile Header English | 1500x500   | [[./images/save-lives-stay-home-twitter-banner-1500x500.pxm][save-lives-stay-home-twitter-banner-1500x500.pxm]] |
+
+These images were made with Pixelmator. You are welcome to take these
+image sources and modify them and create translations in other
+languages or in formats suitable for other social media.
+
+The github repo for this project is here:
+
+[[https://github.com/savelivesstayhome/savelivesstayhome.github.io][https://github.com/savelivesstayhome/savelivesstayhome.github.io]]
+
+* License
+
+This license covers the images, images sources and website sources in this repository.
+
+| Item                | Note                                                                                                                                                    |
+|---------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| License Description | "The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to theworld-wide public domain." |
+| License Text        | [[./LICENSE][Creative Commons Zero v1.0 Universal]]                                                                                                                    |
+
+* Colophon
+
+This project was made with:
+
+| Tool         | Output                           | Link                                 |
+|--------------+----------------------------------+--------------------------------------|
+| Pixelmator   | Images                           | http://www.pixelmator.com/mac/       |
+| Emacs        | Website Sources, editor          | https://emacsformacosx.com           |
+| Org Mode     | Website Sources, markup          | https://orgmode.org                  |
+| Skeleton     | Website Sources, css boilerplate | https://github.com/dhg/Skeleton      |
+| Github Pages | Website                          | https://savelivesstayhome.github.io/ |
+
+#+HTML:    </div><!-- sixteen columns-->
+#+HTML:    </div><!-- container -->
 
