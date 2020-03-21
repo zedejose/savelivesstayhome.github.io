@@ -76,18 +76,6 @@ This license covers the images, images sources and website sources in this repos
 
 These images were inspired by images posted by [[https://twitter.com/EmmanuelMacron/status/1239674643822325760][Emmanuel Macron]].
 
-* Colophon
-
-This project was made with:
-
-| Tool         | Output                           | Link                                 |
-|--------------+----------------------------------+--------------------------------------|
-| Pixelmator   | Images                           | http://www.pixelmator.com/mac/       |
-| Emacs        | Website Sources, editor          | https://emacsformacosx.com           |
-| Org Mode     | Website Sources, markup          | https://orgmode.org                  |
-| Skeleton     | Website Sources, css boilerplate | https://github.com/dhg/Skeleton      |
-| Github Pages | Website                          | https://savelivesstayhome.github.io/ |
-
 #+HTML:    </div><!-- sixteen columns-->
 #+HTML:    </div><!-- container -->
 
