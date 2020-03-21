@@ -1,0 +1,21 @@
+#+TITLE: Save Lives Stay Home
+#+AUTHOR: Ricardo Anguiano
+#+DATE: C-t
+#+OPTIONS: toc:nil num:nil email:t html-postamble:nil ^:nil
+
+* Save Lives Stay Home
+
+This is a collection of images and sources to spread the word: 
+
+#+BEGIN_EXAMPLE
+Save Lives Stay Home
+#+END_EXAMPLE 
+
+* Actions
+
+- Please share these image wherever you think it will encourage people
+  to practice social distancing during this global health crisis.
+
+- Please add your own translations, and distribute the message on
+  social media or by group or private message.
+
