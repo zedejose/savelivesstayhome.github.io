@@ -4,7 +4,7 @@ Please share these images wherever you think it will encourage people
 to practice social distancing during the COVID-19 global health
 crisis.
 
-Send a pull request with additional translations.
+Take inspiration and make your own translations in other languages.
 
 # Website
 <https://savelivesstayhome.github.io/>
