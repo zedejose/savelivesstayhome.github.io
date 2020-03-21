@@ -18,8 +18,11 @@ to practice social distancing during this global health crisis.
 
 To save an image locally so you can share it with others, press and
 hold the image until you see a save option, then select save. On a
-laptop or desktop, right click and select save. Now share the image
-you saved!
+laptop or desktop, right click and select save. 
+
+Now share the image you saved with friends and family on social media
+like Facebook, Instagram, Twitter, and LinkedIn or by messenger
+services like WhatsApp, iMessage or SMS text message.
 
 * Images
 
@@ -28,12 +31,6 @@ you saved!
 #+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language.
 #+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language.
 [[./images/save-lives-stay-home-1470.jpg]]
-
-** Twitter Profile Header English
-#+ATTR_HTML: :class u-max-full-width
-#+ATTR_HTML: :alt Save Lives Stay Home Image for Twitter Profile Header, 1500x500 square JPEG, English language.
-#+CAPTION: Save Lives Stay Home Image for Twitter Profile Header, 1500x500 square JPEG, English language.
-[[./images/save-lives-stay-home-twitter-banner-1500x500.jpg]]
 
 ** General Purpose Spanish
 #+ATTR_HTML: :class u-max-full-width
@@ -56,7 +53,6 @@ you saved!
 | General Purpose English        | 1470x1470  | [[./images/save-lives-stay-home-1470.pxm.zip][save-lives-stay-home-1470.pxm.zip]]                    |
 | General Purpose Spanish        | 1470x1470  | [[./images/save-lives-stay-home-spanish-1470.pxm.zip][save-lives-stay-home-spanish-1470.pxm.zip]]            |
 | General Purpose French         | 1470x1470  | [[./images/save-lives-stay-home-spanish-1470.pxm.zip][save-lives-stay-home-french-1470.pxm.zip]]             |
-| Twitter Profile Header English | 1500x500   | [[./images/save-lives-stay-home-twitter-banner-1500x500.pxm.zip][save-lives-stay-home-twitter-banner-1500x500.pxm.zip]] |
 
 These images were made with Pixelmator. You are welcome to take these
 image sources and modify them and create translations in other

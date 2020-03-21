@@ -1,10 +1,21 @@
 # Save Lives Stay Home
 
-This is a collection of images and sources to spread the word: save
-lives stay home. Please add your own translations, and distribute the
-message on social media or by group or private message.
+Please share these images wherever you think it will encourage people
+to practice social distancing during the COVID-19 global health
+crisis.
 
-Please share these image wherever you think it will encourage people
-to practice social distancing during this global health crisis.
+Send a pull request with additional translations.
 
-Visit the website: <https://savelivesstayhome.github.io/>
+# Website
+<https://savelivesstayhome.github.io/>
+
+# Images
+![Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language.][english]
+
+![Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Spanish language.][spanish]
+
+!["Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, French language."][french]
+
+[english]: https://savelivesstayhome.github.io/images/save-lives-stay-home-1470.jpg "Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language."
+[spanish]: https://savelivesstayhome.github.io/images/save-lives-stay-home-spanish-1470.jpg "Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Spanish language."
+[french]: https://savelivesstayhome.github.io/images/save-lives-stay-home-french-1470.jpg "Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, French language."
