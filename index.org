@@ -79,3 +79,10 @@ These images were inspired by images posted by [[https://twitter.com/EmmanuelMac
 #+HTML:    </div><!-- sixteen columns-->
 #+HTML:    </div><!-- container -->
 
+* Official Resources for COVID-19
+
+| Organization | Link                                                            |
+|--------------+-----------------------------------------------------------------|
+| WHO          | https://www.who.int/emergencies/diseases/novel-coronavirus-2019 |
+| CDC          | https://www.cdc.gov/coronavirus/2019-nCoV/index.html            |
+
