@@ -14,7 +14,12 @@
 #+HTML:    <div class="sixteen columns">
 
 Please share these images wherever you think it will encourage people
-to practice social distancing during this global health crisis.
+to practice social distancing during this global health crisis. 
+
+To save an image locally so you can share it with others, press and
+hold the image until you see a save option, then select save. On a
+laptop or desktop, right click and select save. Now share the image
+you saved!
 
 * Images
 
@@ -36,14 +41,22 @@ to practice social distancing during this global health crisis.
 #+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Spanish language.
 [[./images/save-lives-stay-home-spanish-1470.jpg]]
 
+** General Purpose French
+#+ATTR_HTML: :class u-max-full-width
+#+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, French language.
+#+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, French language.
+[[./images/save-lives-stay-home-french-1470.jpg]]
+
+
 * Image Sources
 
-| Description                    | Resolution | Link                                             |
-|--------------------------------+------------+--------------------------------------------------|
-| <l>                            | <c>        | <l>                                              |
-| General Purpose English        | 1470x1470  | [[./images/save-lives-stay-home-1470.pxm][save-lives-stay-home-1470.pxm]]                    |
-| General Purpose Spanish        | 1470x1470  | [[./images/save-lives-stay-home spanish-1470.pxm][save-lives-stay-home spanish-1470.pxm]]            |
-| Twitter Profile Header English | 1500x500   | [[./images/save-lives-stay-home-twitter-banner-1500x500.pxm][save-lives-stay-home-twitter-banner-1500x500.pxm]] |
+| Description                    | Resolution | Link                                                 |
+|--------------------------------+------------+------------------------------------------------------|
+| <l>                            | <c>        | <l>                                                  |
+| General Purpose English        | 1470x1470  | [[./images/save-lives-stay-home-1470.pxm.zip][save-lives-stay-home-1470.pxm.zip]]                    |
+| General Purpose Spanish        | 1470x1470  | [[./images/save-lives-stay-home-spanish-1470.pxm.zip][save-lives-stay-home-spanish-1470.pxm.zip]]            |
+| General Purpose French         | 1470x1470  | [[./images/save-lives-stay-home-spanish-1470.pxm.zip][save-lives-stay-home-french-1470.pxm.zip]]             |
+| Twitter Profile Header English | 1500x500   | [[./images/save-lives-stay-home-twitter-banner-1500x500.pxm.zip][save-lives-stay-home-twitter-banner-1500x500.pxm.zip]] |
 
 These images were made with Pixelmator. You are welcome to take these
 image sources and modify them and create translations in other
@@ -61,6 +74,10 @@ This license covers the images, images sources and website sources in this repos
 |---------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | License Description | "The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to theworld-wide public domain." |
 | License Text        | [[./LICENSE][Creative Commons Zero v1.0 Universal]]                                                                                                                    |
+
+* Acknowledgement
+
+These images were inspired by images posted by [[https://twitter.com/EmmanuelMacron/status/1239674643822325760][Emmanuel Macron]].
 
 * Colophon
 
