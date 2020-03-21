@@ -68,7 +68,7 @@ This license covers the images, images sources and website sources in this repos
 
 | Item                | Note                                                                                                                                                    |
 |---------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| License Description | "The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to theworld-wide public domain." |
+| License Description | "The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain." |
 | License Text        | [[./LICENSE][Creative Commons Zero v1.0 Universal]]                                                                                                                    |
 
 * Acknowledgement
