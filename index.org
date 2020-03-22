@@ -27,31 +27,29 @@ services like WhatsApp, iMessage or SMS text message.
 
 * Images
 
-** General Purpose English
+** English
 #+ATTR_HTML: :class u-max-full-width
 #+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language.
 #+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language.
 [[./images/save-lives-stay-home-1470.jpg]]
 
-** General Purpose Spanish
+** Spanish
 #+ATTR_HTML: :class u-max-full-width
 #+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Spanish language.
 #+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Spanish language.
 [[./images/save-lives-stay-home-spanish-1470.jpg]]
 
-** General Purpose French
+** French
 #+ATTR_HTML: :class u-max-full-width
 #+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, French language.
 #+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, French language.
 [[./images/save-lives-stay-home-french-1470.jpg]]
 
-** General Purpose Italian
+** Italian
 #+ATTR_HTML: :class u-max-full-width
 #+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Italian language.
 #+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Italian language.
 [[./images/save-lives-stay-home-italian-1470.jpg]]
-
-
 
 * Image Sources
 
