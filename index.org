@@ -53,17 +53,18 @@ services like WhatsApp, iMessage or SMS text message.
 
 * Image Sources
 
-| Description             | Resolution | Link                                      |
-|-------------------------+------------+-------------------------------------------|
-| <l>                     | <c>        | <l>                                       |
-| General Purpose English | 1470x1470  | [[./images/save-lives-stay-home-1470.pxm.zip][save-lives-stay-home-1470.pxm.zip]]         |
-| General Purpose Spanish | 1470x1470  | [[./images/save-lives-stay-home-spanish-1470.pxm.zip][save-lives-stay-home-spanish-1470.pxm.zip]] |
-| General Purpose French  | 1470x1470  | [[./images/save-lives-stay-home-french-1470.pxm.zip][save-lives-stay-home-french-1470.pxm.zip]]  |
-| General Purpose Italian | 1470x1470  | [[./images/save-lives-stay-home-italian-1470.pxm.zip][save-lives-stay-home-italian-1470.pxm.zip]] |
+| Description | Resolution | Link                                      |
+|-------------+------------+-------------------------------------------|
+| <l>         | <c>        | <l>                                       |
+| English     | 1470x1470  | [[./images/save-lives-stay-home-1470.pxm.zip][save-lives-stay-home-1470.pxm.zip]]         |
+| Spanish     | 1470x1470  | [[./images/save-lives-stay-home-spanish-1470.pxm.zip][save-lives-stay-home-spanish-1470.pxm.zip]] |
+| French      | 1470x1470  | [[./images/save-lives-stay-home-french-1470.pxm.zip][save-lives-stay-home-french-1470.pxm.zip]]  |
+| Italian     | 1470x1470  | [[./images/save-lives-stay-home-italian-1470.pxm.zip][save-lives-stay-home-italian-1470.pxm.zip]] |
 
-These images were made with Pixelmator. You are welcome to take these
-image sources and modify them and create translations in other
-languages or in formats suitable for other social media.
+Take inspiration and make your own translations in other
+languages. The images were made with Pixelmator. Use the image sources
+above if you have Pixelmator or use whatever image editing tools you
+have handy.
 
 The github repo for this project is here:
 
