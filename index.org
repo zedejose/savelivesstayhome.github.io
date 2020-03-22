@@ -14,14 +14,14 @@
 #+HTML:    <div class="sixteen columns">
 
 Please share these images wherever you think it will encourage people
-to practice social distancing during the COVID-19 global health
-crisis.
+to practice social distancing and protect the most vulnerable people
+during the COVID-19 global health crisis.
 
-To save an image locally so you can share it with others, press and
-hold the image until you see a save option, then select save. On a
-laptop or desktop, right click and select save. 
+To share an image with others, press and hold the image until you see
+a save or share option. On a laptop or desktop, right click and select
+save.
 
-Now share the image you saved with friends and family on social media
+Now share the image with friends, family and coleagues on social media
 like Facebook, Instagram, Twitter, and LinkedIn or by messenger
 services like WhatsApp, iMessage or SMS text message.
 
@@ -66,18 +66,30 @@ languages. The images were made with Pixelmator. Use the image sources
 above if you have Pixelmator or use whatever image editing tools you
 have handy.
 
+*Colors*
+| Item                  | Color Hex Value |
+|-----------------------+-----------------|
+| Dark Blue Letters     | #23305d         |
+| White Letters         | #23305d         |
+| Bright Red Background | #da0712         |
+
+*Font*
+Avenir Next
+
 The github repo for this project is here:
 
 [[https://github.com/savelivesstayhome/savelivesstayhome.github.io][https://github.com/savelivesstayhome/savelivesstayhome.github.io]]
 
 * License
 
-This license covers the images, images sources and website sources in this repository.
+This license covers the images, images sources and website sources sans the css boilerplate in this repository.
 
 | Item                | Note                                                                                                                                                    |
 |---------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | License Description | "The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain." |
 | License Text        | [[./LICENSE][Creative Commons Zero v1.0 Universal]]                                                                                                                    |
+
+The css boilerplate has its own license: https://github.com/dhg/Skeleton/blob/master/LICENSE.md
 
 * Acknowledgement
 
