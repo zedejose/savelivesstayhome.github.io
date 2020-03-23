@@ -64,17 +64,15 @@ services like WhatsApp, iMessage or SMS text message.
 Take inspiration and make your own translations in other
 languages. The images were made with Pixelmator. Use the image sources
 above if you have Pixelmator or use whatever image editing tools you
-have handy.
+have handy. Here are the image attributes:
 
-*Colors*
 | Item                  | Color Hex Value |
 |-----------------------+-----------------|
 | Dark Blue Letters     | #23305d         |
 | White Letters         | #23305d         |
 | Bright Red Background | #da0712         |
-
-*Font*
-Avenir Next
+|-----------------------+-----------------|
+| Font                  | Avenir Next     |
 
 The github repo for this project is here:
 

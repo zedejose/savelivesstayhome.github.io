@@ -24,18 +24,14 @@ Take inspiration and make your own translations in other
 languages. The images were made with Pixelmator and the sources are in
 the repo and linked on the website. Use those sources if you have
 Pixelmator or use whatever image editing tools and clear readable font
-you have handy.
+you have handy. Here are the image attributes:
 
-**Colors**
-| Item                  | Color Hex Value |
+| Item                  | Value           |
 |-----------------------|-----------------|
 | Dark Blue Letters     | #23305d         |
 | White Letters         | #23305d         |
 | Bright Red Background | #da0712         |
-
-**Font**
-
-Avenir Next
+| Font                  | Avenir Next     |
 
 # License
 
