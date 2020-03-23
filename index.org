@@ -51,6 +51,12 @@ services like WhatsApp, iMessage or SMS text message.
 #+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Italian language.
 [[./images/save-lives-stay-home-italian-1470.jpg]]
 
+** German
+#+ATTR_HTML: :class u-max-full-width
+#+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, German language.
+#+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, German language.
+[[./images/save-lives-stay-home-german-1470.jpg]]
+
 * Image Sources
 
 | Description | Resolution | Link                                      |
@@ -60,6 +66,7 @@ services like WhatsApp, iMessage or SMS text message.
 | Spanish     | 1470x1470  | [[./images/save-lives-stay-home-spanish-1470.pxm.zip][save-lives-stay-home-spanish-1470.pxm.zip]] |
 | French      | 1470x1470  | [[./images/save-lives-stay-home-french-1470.pxm.zip][save-lives-stay-home-french-1470.pxm.zip]]  |
 | Italian     | 1470x1470  | [[./images/save-lives-stay-home-italian-1470.pxm.zip][save-lives-stay-home-italian-1470.pxm.zip]] |
+| German      | 1470x1470  | [[./images/save-lives-stay-home-german-1470.pxm.zip][save-lives-stay-home-german-1470.pxm.zip]]  |
 
 Take inspiration and make your own translations in other
 languages. The images were made with Pixelmator. Use the image sources
