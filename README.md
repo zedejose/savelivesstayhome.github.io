@@ -8,7 +8,9 @@ during the COVID-19 global health crisis.
 
 # Images
 
-![Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language.][english]
+There are more translated images at the link above, this is just a sample. I will not be able to scale up to make translated images for all languages. Please take inspiration and make your own translations in other languages and share them where you think it will do good.
+
+![Save Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, English language.][english]
 
 ![Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Spanish language.][spanish]
 
@@ -33,6 +35,13 @@ you have handy. Here are the image attributes:
 | Bright Red Background | #da0712         |
 | Font                  | Avenir Next     |
 
+# Official Resources for COVID-19
+
+| Organization | Link                                                            |
+|--------------|-----------------------------------------------------------------|
+| WHO          | https://www.who.int/emergencies/diseases/novel-coronavirus-2019 |
+| CDC          | https://www.cdc.gov/coronavirus/2019-nCoV/index.html            |
+
 # License
 
 This license covers the images, images sources and website sources sans the css boilerplate in this repository.
@@ -55,5 +64,4 @@ This project was made with:
 | Org Mode     | Website Sources, markup          | https://orgmode.org                  |
 | Skeleton     | Website Sources, css boilerplate | https://github.com/dhg/Skeleton      |
 | Github Pages | Website                          | https://savelivesstayhome.github.io/ |
-
 
